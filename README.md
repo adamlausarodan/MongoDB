@@ -1,4 +1,1 @@
-"# PYTHON" 
-"# PERCOBAAN_CREDIT_RISL" 
-"# PERCOBAAN_CREDIT_RISL" 
-"# MongoDB" 
+git remote add origin2 https://github.com/adamlausarodan/MongoDB.git
