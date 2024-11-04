@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "66fd3e3b7c2259425331f261"
+  },
+  "Nama": "Adam Nibros",
+  "Nim": "222443001",
+  "Ttl": "Bandung, 12-08-2004",
+  "No_Telepon": "085709483081",
+  "Jenis_Kelamin": "Laki-Laki"
+},{
+  "_id": {
+    "$oid": "66fd54e6e054be1c4d0cad73"
+  },
+  "Nama": "Adhwa Nabi",
+  "Nim": "222443002",
+  "Ttl": "Subang,20-03-2004",
+  "Jenis_Kelamin": "Perempuan",
+  "No_Telepon": "083822178582"
+},{
+  "_id": {
+    "$oid": "66fd559ae054be1c4d0cad74"
+  },
+  "Nama": "Agrivina Putri Maharan",
+  "Nim": "222443003",
+  "Ttl": "Bandung, 25-08-2003",
+  "Jenis_Kelamin": "Perempuan",
+  "No_Telepon": "083822178582"
+},{
+  "_id": {
+    "$oid": "66fd55c5e054be1c4d0cad75"
+  },
+  "Nama": "Ali Musthofa Baharudin",
+  "Nim": "222443004",
+  "Ttl": "Bandung, 26-10-2004",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "087776769339"
+},{
+  "_id": {
+    "$oid": "66fd55e2e054be1c4d0cad76"
+  },
+  "Nama": "Aqila Hafizh Alfariz",
+  "Nim": "222443005",
+  "Ttl": "Bekasi, 23-03-2004",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "087830033951"
+},{
+  "_id": {
+    "$oid": "66fd560ae054be1c4d0cad77"
+  },
+  "Nama": "Aqsha Maulana Ilham",
+  "Nim": "222443006",
+  "Ttl": "Bandung, 16-12-2003",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "087868828164"
+},{
+  "_id": {
+    "$oid": "66fd5632e054be1c4d0cad78"
+  },
+  "Nama": "Arum Sita Resmi",
+  "Nim": "222443007",
+  "Ttl": "Bandung, 22-02-2004",
+  "Jenis_Kelamin": "Perempuan",
+  "No_Telepon": "085706771056"
+},{
+  "_id": {
+    "$oid": "66fd565ee054be1c4d0cad79"
+  },
+  "Nama": "Bella Firdha Azkia",
+  "Nim": "222443008",
+  "Ttl": "Medan, 06-07-2003",
+  "Jenis_Kelamin": "Perempuan",
+  "No_Telepon": "088222311308"
+},{
+  "_id": {
+    "$oid": "66fd5680e054be1c4d0cad7a"
+  },
+  "Nama": "Dicky Rahadian Fitria",
+  "Nim": "222443009",
+  "Ttl": "Jakarta, 16-12-2001",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "089518433488"
+},{
+  "_id": {
+    "$oid": "66fd56a2e054be1c4d0cad7b"
+  },
+  "Nama": "Dzulhaqqi Nur Fadhilah",
+  "Nim": "222443011",
+  "Ttl": "Bandung, 16-02-2004",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "081312658921"
+},{
+  "_id": {
+    "$oid": "66fd56bfe054be1c4d0cad7c"
+  },
+  "Nama": "Fahlevi Nicko Sarjono",
+  "Nim": "222443012",
+  "Ttl": "Bekasi, 01-05-2004",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "087888231611"
+},{
+  "_id": {
+    "$oid": "66fd56dee054be1c4d0cad7d"
+  },
+  "Nama": "Hafizh Ahmad Al Mushoffi",
+  "Nim": "222443013",
+  "Ttl": "Bandung, 31-05-2004",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "085720699706"
+},{
+  "_id": {
+    "$oid": "66fd56ffe054be1c4d0cad7e"
+  },
+  "Nama": "Ihsan Kamaludin",
+  "Nim": "222443014",
+  "Ttl": "Bogor, 20-05-2004",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "085777192672"
+},{
+  "_id": {
+    "$oid": "66fd5719e054be1c4d0cad7f"
+  },
+  "Nama": "M Dandi Al Idrus",
+  "Nim": "222443015",
+  "Ttl": "Purwakarta, 08-10-2003",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "087829478221"
+},{
+  "_id": {
+    "$oid": "66fd573ce054be1c4d0cad80"
+  },
+  "Nama": "Moh Farhan Zaenur",
+  "Nim": "222443016",
+  "Ttl": "Purwakarta, 13-10-2003",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "083816725123"
+},{
+  "_id": {
+    "$oid": "66fd5753e054be1c4d0cad81"
+  },
+  "Nama": "Naufal Reswara",
+  "Nim": "222443017",
+  "Ttl": "Kebumen, 07-08-2004",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "085921131300"
+},{
+  "_id": {
+    "$oid": "66fd5773e054be1c4d0cad82"
+  },
+  "Nama": "Nikita Aura Praditya",
+  "Nim": "222443018",
+  "Ttl": "Jakarta, 17-05-2004",
+  "Jenis_Kelamin": "Perempuan",
+  "No_Telepon": "088222282412"
+},{
+  "_id": {
+    "$oid": "66fd5796e054be1c4d0cad83"
+  },
+  "Nama": "Rangga Rizky Radityo",
+  "Nim": "222443019",
+  "Ttl": "Bandung, 29-08-2004",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "085797012429"
+},{
+  "_id": {
+    "$oid": "66fd57abe054be1c4d0cad84"
+  },
+  "Nama": "Syahrul Darmawan",
+  "Nim": "222443020",
+  "Ttl": "Bandung, 26-12-2003",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "081321437180"
+},{
+  "_id": {
+    "$oid": "66fd57cce054be1c4d0cad85"
+  },
+  "Nama": "Taghsya Nadhira",
+  "Nim": "222443021",
+  "Ttl": "Bandung, 24-04-2003",
+  "Jenis_Kelamin": "Perempuan",
+  "No_Telepon": "089655892353"
+},{
+  "_id": {
+    "$oid": "66fd580de054be1c4d0cad86"
+  },
+  "Nama": "Vicki Aristiya Andriawan",
+  "Nim": "222443022",
+  "Ttl": "Bandung, 29-06-2003",
+  "Jenis_Kelamin": "Laki-Laki",
+  "No_Telepon": "082118197630"
+}]
